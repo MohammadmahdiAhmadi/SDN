@@ -12,3 +12,5 @@ This repository contains two projects for the **Computer Networks 2** course, fo
 - **P2_Topology.py**: Script to create an SDN topology in Mininet.
 - **P2_Schema.py**: Script to generate the network schema.
 - **P2_Schema.JPG**: Image of the generated network topology.
+
+![Schema](./Project_2/P2_Schema.JPG)
